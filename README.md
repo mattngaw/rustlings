@@ -1,3 +1,9 @@
+<img src="https://rustacean.net/more-crabby-things/dancing-ferris.gif" style="width:40%"/>
+
+# *NOTE*
+
+These are my solutions to the rustlings exercises.
+
 # rustlings 🦀❤️
 
 Greetings and welcome to `rustlings`. This project contains small exercises to get you used to reading and writing Rust code. This includes reading and responding to compiler messages!
