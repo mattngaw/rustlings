@@ -1,7 +1,8 @@
 # Exercise to Book Chapter mapping
 
-| Exercise               | Book Chapter |
-|------------------------|--------------|
+| Exercise               | Book Chapter  |
+|------------------------|---------------|
+| intro                  | n/a           |
 | variables              | §3.1          |
 | functions              | §3.3          |
 | if                     | §3.5          |

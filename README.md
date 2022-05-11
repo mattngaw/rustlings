@@ -9,6 +9,7 @@ See the original repo [here](https://github.com/rust-lang/rustlings).
 
 | Exercise               | Done? |
 |------------------------|-------------|
+| intro                  | ✅          |
 | variables              | ✅          |
 | functions              | ❌          |
 | if                     | ❌          |
