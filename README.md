@@ -11,8 +11,8 @@ See the original repo [here](https://github.com/rust-lang/rustlings).
 |------------------------|-------------|
 | intro                  | ✅          |
 | variables              | ✅          |
-| functions              | ❌          |
-| if                     | ❌          |
+| functions              | ✅          |
+| if                     | ✅          |
 | move_semantics         | ❌          |
 | primitive_types        | ❌          |
 | structs                | ❌          |
