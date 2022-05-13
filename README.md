@@ -13,7 +13,7 @@ See the original repo [here](https://github.com/rust-lang/rustlings).
 | variables              | ✅          |
 | functions              | ✅          |
 | if                     | ✅          |
-| move_semantics         | ❌          |
+| move_semantics         | ✅          |
 | primitive_types        | ❌          |
 | structs                | ❌          |
 | enums                  | ❌          |
