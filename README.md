@@ -14,7 +14,7 @@ See the original repo [here](https://github.com/rust-lang/rustlings).
 | functions              | ✅          |
 | if                     | ✅          |
 | move_semantics         | ✅          |
-| primitive_types        | ❌          |
+| primitive_types        | ✅          |
 | structs                | ❌          |
 | enums                  | ❌          |
 | modules                | ❌          |
